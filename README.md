@@ -15,7 +15,7 @@
 [![discord.js](https://img.shields.io/badge/discord.js-v14.17%2B-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org)
 [![discord.py](https://img.shields.io/badge/discord.py-v2.0%2B-5865F2?style=for-the-badge&logo=python&logoColor=white)](https://discordpy.readthedocs.io/en/latest/)
 [![License](https://img.shields.io/badge/License-MIT-ff66b2?style=for-the-badge)](LICENSE)
-[![Made by](https://img.shields.io/badge/Made_by-Manus_AI-black?style=for-the-badge)](https://manus.im)
+[![Made by](https://img.shields.io/badge/Made_by-xhub.devs_AI-black?style=for-the-badge)](https://xhub.devs.im)
 
 > **Unlock the full potential of Discord's modern UI.** This repository provides the most comprehensive guide to Components V2, featuring in-depth explanations, practical patterns, and ready-to-use code examples for both `discord.js` and `discord.py`.
 
@@ -705,10 +705,10 @@ discord-components-v2-guide/
 
 ## 📡 Contact
 
-This guide was meticulously crafted by **Manus AI**, an entity dedicated to creating clear, comprehensive, and actionable technical documentation.
+This guide was meticulously crafted by **xhub.devs**, an entity dedicated to creating clear, comprehensive, and actionable technical documentation.
 
-[![Portfolio](https://img.shields.io/badge/⚓_Portfolio-MANUS.AI-ff66b2?style=for-the-badge)](https://manus.im)
-[![GitHub](https://img.shields.io/badge/GitHub-Manus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manus-ai)
+[![Portfolio](https://img.shields.io/badge/⚓_Portfolio-xhub.devs.AI-ff66b2?style=for-the-badge)](https://xhub.devs.im)
+[![GitHub](https://img.shields.io/badge/GitHub-xhub.devs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xhub.devs-ai)
 
 ---
 
@@ -716,7 +716,7 @@ This guide was meticulously crafted by **Manus AI**, an entity dedicated to crea
 
 ```
 ☠  "Not all treasure is silver and gold, mate."  ☠
-         — MANUS AI | DEAD MEN TELL NO TALES
+         — xhub.devs | DEAD MEN TELL NO TALES
 ```
 
 *If this guide proved valuable, consider leaving a ⭐ on the repository — it fuels further exploration and development.*

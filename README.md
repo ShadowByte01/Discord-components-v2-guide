@@ -707,7 +707,7 @@ discord-components-v2-guide/
 
 This guide was meticulously crafted by **xhub.devs**, an entity dedicated to creating clear, comprehensive, and actionable technical documentation.
 
-[![Portfolio](https://img.shields.io/badge/⚓_Portfolio-xhub.devs.AI-ff66b2?style=for-the-badge)](https://xhub.devs.im)
+[![Portfolio](https://img.shields.io/badge/⚓_Portfolio-xhub.devs-ff66b2?style=for-the-badge)](https://xhub.devs.im)
 [![GitHub](https://img.shields.io/badge/GitHub-xhub.devs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xhub.devs-ai)
 
 ---

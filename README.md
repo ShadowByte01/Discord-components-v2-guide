@@ -15,7 +15,7 @@
 [![discord.js](https://img.shields.io/badge/discord.js-v14.17%2B-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org)
 [![discord.py](https://img.shields.io/badge/discord.py-v2.0%2B-5865F2?style=for-the-badge&logo=python&logoColor=white)](https://discordpy.readthedocs.io/en/latest/)
 [![License](https://img.shields.io/badge/License-MIT-ff66b2?style=for-the-badge)](LICENSE)
-[![Made by](https://img.shields.io/badge/Made_by-xhub.devs_AI-black?style=for-the-badge)](https://xhub.devs.im)
+[![Made by](https://img.shields.io/badge/Made_by-xhub.devs_-black?style=for-the-badge)](https://xhub.devs.im)
 
 > **Unlock the full potential of Discord's modern UI.** This repository provides the most comprehensive guide to Components V2, featuring in-depth explanations, practical patterns, and ready-to-use code examples for both `discord.js` and `discord.py`.
 
